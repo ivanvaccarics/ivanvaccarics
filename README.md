@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ivan and I'm a software developer/DevOps engineer. I'm a Ph.D. in Computer Science from Italy and currently working as software engineer with a cyber security, IoT and machine learning background. You can find me on [![LinkedIn][3.2]][3].
+My name is Ivan and I'm a software developer/DevOps engineer. I'm a Ph.D. in Computer Science from Italy and a technology enthusiast. I'm currently working as software engineer with a cyber security, IoT and machine learning background. You can find me on [![LinkedIn][3.2]][3].
 
 
 **ivanvaccarics/ivanvaccarics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
