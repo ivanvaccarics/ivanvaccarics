@@ -1,5 +1,5 @@
 PS3='Git commands script: '
-options = ("Status" "Add" "Commit" "Push" "History" "All deployment commands" "Quit")
+options=("Status" "Add" "Commit" "Push" "History" "All deployment commands" "Quit")
 select opt in "${options[@]}"
 do
     case $opt in
