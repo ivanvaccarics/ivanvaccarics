@@ -52,6 +52,10 @@ My name is Ivan and I'm a software developer/DevOps engineer. I'm a Ph.D. in Com
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 <!-- links to social media icons -->
+### Some stats...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvaccarics&layout=compact)](https://github.com/ivanvaccarics/github-readme-stats)
+
 
 <!-- icons with padding -->
 
