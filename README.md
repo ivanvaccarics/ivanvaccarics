@@ -44,7 +44,7 @@ eWAPT | eJPT | Hyperledger Fabric | Wi-Fi, ZigBee, MQTT, CoAP, AMQP | Windows, L
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ivanvaccari) • [GitHub](https://github.com/ivanvaccarics) • [Google Scholar](https://scholar.google.it/citations?user=O09fwToAAAAJ&hl=en&oi=ao) • [Kaggle](https://www.kaggle.com/ivanvaccari) • [ivan.vaccari91@gmail.com](mailto:ivan.vaccari91@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ivanvaccari) • [GitHub](https://github.com/ivanvaccarics) • [Google Scholar](https://scholar.google.it/citations?user=O09fwToAAAAJ&hl=en&oi=ao) • [Kaggle](https://www.kaggle.com/ivanvaccari)
 
 ---
 
